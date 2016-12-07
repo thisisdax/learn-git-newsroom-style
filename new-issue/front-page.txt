@@ -13,17 +13,17 @@ Serving you daily printed news since before newspapers went online.
 * headline
 
 ## Culture
-* headline
+* Sudoku
 * headline
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    27C
+Monday:    35
+Tuesday:   37
+Wednesday: 34
+Thursday:  39
+Friday:    40
+Saturday:  32
 
 June 27, 2016
 25 cents
