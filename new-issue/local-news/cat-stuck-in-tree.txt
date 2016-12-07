@@ -1,5 +1,11 @@
+<h1> Cat stuck in tree</h1>
+
 Our beat reporter caught word of a cat struck in a tree at Cherry and 3rd.
 Resident deli owner Henry Berringer says he chased the cat out of his store
 at 3:00 PM. Regular customer Susan Crandon says the cat was chasing rats.
 Henry Berringer denies this allegation.
+<<<<<<< HEAD
+Change made by YiSheng
+=======
 Change made by sharona
+>>>>>>> 2c2b92592d84e815069e2950a7291286876236ca
